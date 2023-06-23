@@ -82,6 +82,7 @@ async function seedData(){
 }
 
 
+
 //script run
 seedData().then(()=>{
     process.exit()
